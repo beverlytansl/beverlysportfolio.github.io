@@ -1,5 +1,7 @@
 ---
 main:
+- weight: 2
+  title: love
 - identifier: home
   url: "/"
   weight: 1
